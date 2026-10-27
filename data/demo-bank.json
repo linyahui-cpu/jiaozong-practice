@@ -1,0 +1,17 @@
+{
+  "id":"demo-jiaozong",
+  "name":"教综热身 · 原创示例",
+  "province":"通用",
+  "source":"原创示例，非真题",
+  "demo":true,
+  "questions":[
+    {"id":"demo-1","type":"single","question":"《大教学论》的作者是（ ）。","options":{"A":"赫尔巴特","B":"夸美纽斯","C":"杜威","D":"洛克"},"answer":"B","explanation":"夸美纽斯的《大教学论》系统论述了班级授课制等教育问题。赫尔巴特著有《普通教育学》，杜威著有《民主主义与教育》。","module":"教育学","demo":true,"source":{"label":"原创示例，非真题","number":1}},
+    {"id":"demo-2","type":"multiple","question":"下列属于通常所说的教师职业道德规范内容的有（ ）。","options":{"A":"爱岗敬业","B":"关爱学生","C":"为人师表","D":"唯分数评价学生"},"answer":"ABC","explanation":"爱岗敬业、关爱学生、为人师表均属于《中小学教师职业道德规范》的要求。不能把分数作为评价学生的唯一标准。","module":"教师职业道德","demo":true,"source":{"label":"原创示例，非真题","number":2}},
+    {"id":"demo-3","type":"boolean","question":"学生既是教育的对象，也是自我教育和发展的主体。","answer":"正确","explanation":"学生具有主体性，是发展中的人。教学应调动学生的主动性，同时发挥教师的引导作用。","module":"教育学","demo":true,"source":{"label":"原创示例，非真题","number":3}},
+    {"id":"demo-4","type":"single","question":"学生在学习过程中主动检查理解情况，并根据检查结果调整学习方法，这主要体现了（ ）。","options":{"A":"复述策略","B":"组织策略","C":"元认知策略","D":"精细加工策略"},"answer":"C","explanation":"元认知策略包括计划、监控和调节。检查理解情况属于监控，根据结果调整方法属于调节。","module":"教育心理学","demo":true,"source":{"label":"原创示例，非真题","number":4}},
+    {"id":"demo-5","type":"single","question":"个体对客观事物是否符合自身需要而产生的态度体验，通常称为（ ）。","options":{"A":"记忆","B":"情绪和情感","C":"注意","D":"思维"},"answer":"B","explanation":"情绪和情感是人对客观事物是否满足自身需要而产生的态度体验。记忆、注意和思维不属于这一概念。","module":"心理学","demo":true,"source":{"label":"原创示例，非真题","number":5}},
+    {"id":"demo-6","type":"boolean","question":"实施义务教育的学校可以开除违反学校管理制度的学生。","answer":"错误","explanation":"《中华人民共和国义务教育法》第二十七条规定，对违反学校管理制度的学生，学校应当予以批评教育，不得开除。","module":"教育法律法规","demo":true,"source":{"label":"原创示例，非真题","number":6}},
+    {"id":"demo-7","type":"multiple","question":"下列做法有助于形成性评价发挥改进学习作用的有（ ）。","options":{"A":"及时提供具体反馈","B":"根据学生表现调整教学","C":"只在学期末公布总分","D":"让学生依据标准进行自评"},"answer":"ABD","explanation":"形成性评价重视学习过程中的信息反馈和改进。具体反馈、教学调整和学生自评均有助于发挥其作用。","module":"教育学","demo":true,"source":{"label":"原创示例，非真题","number":7}},
+    {"id":"demo-8","type":"single","question":"这是一道待核对示例：遇到来源未提供参考答案的题目，应如何处理？","options":{"A":"根据猜测写入参考答案","B":"保留待核对标记，查证后补充"},"answer":[],"explanation":"本题用于演示缺答案处理。系统保留原始空答案，不参与客观正确率统计；可以收藏并在导入预览中核对。","module":"题库核对示例","demo":true,"source":{"label":"原创示例，非真题；故意保留空答案","number":8}}
+  ]
+}
